@@ -1,0 +1,15 @@
+{
+  "name": "ProblemSolving",
+  "version": "1.0.0",
+  "description": "",
+  "main": "j.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
